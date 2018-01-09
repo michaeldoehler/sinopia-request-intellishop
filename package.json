@@ -1,0 +1,16 @@
+{
+  "name": "sinopia-request-intellishop",
+  "version": "0.0.1",
+  "description": "Sinopia plugin to work with IntelliShop Login Server",
+  "repository": {
+    "type": "git",
+    "url": "https://stash.intellishop.local/scm/isnpm/sinopia-request-intellishop.git"
+  },
+  "main": "index.js",
+  "author": "michaeldoehler",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "request": "^2.72.0"
+  }
+}
